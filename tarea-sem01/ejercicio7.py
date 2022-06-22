@@ -8,4 +8,4 @@ for i in numeros:
         m_tres+=1
     elif i%5==0:
         m_cinco+=1
-print("los multipos de 3 son: {} y los multiplos de 5 son: {}" .format(m_tres,m_cinco))
+print("los multiplos de 3 son: {} y los multiplos de 5 son: {}" .format(m_tres,m_cinco))

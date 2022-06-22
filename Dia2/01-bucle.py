@@ -1,6 +1,3 @@
-from operator import length_hint
-
-
 numeros=[10,20,30,40,50,60]
 for numero in numeros:
     print(numero)

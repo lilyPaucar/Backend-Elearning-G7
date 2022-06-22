@@ -15,7 +15,7 @@ del data
 
 notas=(10,15,15,18,10,5,7,14)
 #count sirve para contar las veces que se repite cierto valor 
-print(notas. coun(10))
+print(notas. count(10))
 print(notas.count(20))
 print(notas.count("onomatopeya"))
 

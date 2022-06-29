@@ -107,3 +107,13 @@ def recibirAlumnos(*alumnos):
     #cuando un parametro tiene el * al comienzo significa que ese parametro recibira  n valores y la convertira en una tupla, solo t acepta 1 paramatro con ese tipo
     print(type(alumnos))
     print(alumnos)
+    alumnos_lista=list(alumnos)
+    print(type(alumnos))
+    alumnos_lista[0]="jhoseph"
+    print(alumnos)
+
+    #funcion anonima (lambda function) en python
+
+    sumatoria=lambda numero1,numero2:numero1+numero2
+    respuesta= sumatoria(10,5)
+    print(respuesta)

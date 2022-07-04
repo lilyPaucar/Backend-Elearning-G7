@@ -1,0 +1,12 @@
+def camelCase(texto = ''):
+    t = texto.split()
+    text= ""
+    for letra in t:
+           x='a'
+           y='is'
+           text+= " "+letra if letra==x or letra ==y else " "+letra.title()
+    return text.strip()
+
+frase = "hola amigos como estan"
+
+print(camelCase(frase))

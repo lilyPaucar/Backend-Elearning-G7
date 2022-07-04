@@ -1,0 +1,4 @@
+# TAREA DE LA SEMANA 02
+> ### EJERCICIOS
+> 1. **CLASES**
+> 2. **CAMEL CASE**

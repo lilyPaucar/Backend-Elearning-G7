@@ -1,2 +1,4 @@
 entorno_flask/
 .env
+__pycache__/
+*.pyc
